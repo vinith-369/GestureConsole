@@ -10,7 +10,7 @@
 
 ## Installation
 ### Windows
-1. **Download the EXE file** from the [releases](https://github.com/vintih/GestureConsole/releases) section.
+1. **Download the EXE file** from the [releases]([https://github.com/vintih/GestureConsole/releases](https://github.com/vinith-369/GestureConsole/releases)) section.
 2. **Run the EXE file** (no installation required).
 
 ### Mac (Manual Setup)
